@@ -1,18 +1,7 @@
 import React, { Component } from 'react';
-import {
-  Platform,
-  StyleSheet,
-  Text,
-  View,
-  Dimensions,
-  TextInput,
-  TouchableOpacity,
-  Alert,
-  Image
-} from 'react-native';
+import { Platform, StyleSheet, Text, View, Dimensions, TextInput, TouchableOpacity, Alert, Image } from 'react-native';
 
 const window = Dimensions.get('window');
-
 
 export default class Login extends Component {
 
