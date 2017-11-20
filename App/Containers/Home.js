@@ -26,7 +26,7 @@ export default class Login extends Component {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#ecf0f1',
+        backgroundColor: '#FFF',
         height: window.height,
         width: window.width,
     }
